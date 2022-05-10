@@ -11,6 +11,7 @@ Ou no Email: lucas.mendonca@castanhal.ufpa.br
 
 🇬🇧
 **This Repository is intended to be my environment for documented studies, also serving as a portfolio**
+
 🙋‍♀️ My name is Lucas Dejard and I'm passionate about the area of software testing, student of Computer Engineering at UFPA </br>
 🌈 My only current focus is the QA area using agile methodologies. AND A LOT of automated testing!!! </br>
 💻 Knowledges I have greater confidence are: Python, Selenium, BDD and agile tests. </br>
